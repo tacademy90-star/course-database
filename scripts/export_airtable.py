@@ -109,7 +109,17 @@ def main():
         filenames.append(filename)
         print(f'  {filename}  ({len(courses)} courses)')
 
-    # 3. Regenerate index.json
+    # 3. Clean up old/orphaned JSON files no longer in export
+    import glob
+    existing = set(f for f in glob.glob('*.json') if f != 'index.json')
+    to_delete = existing - set(filenames)
+    if to_delete:
+        print(f'\nCleaning up {len(to_delete)} old files...')
+        for f in sorted(to_delete):
+            os.remove(f)
+            print(f'  Deleted: {f}')
+
+    # 4. Regenerate index.json
     with open('index.json', 'w', encoding='utf-8') as fh:
         json.dump(sorted(filenames), fh, ensure_ascii=False, indent=2)
 
