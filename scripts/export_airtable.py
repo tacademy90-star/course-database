@@ -40,7 +40,12 @@ def fetch_all(base_id: str) -> list:
     offset  = None
 
     while True:
-        params = {'pageSize': 100}
+        params = {
+            'pageSize': 100,
+            'cellFormat': 'string',
+            'timeZone': 'Asia/Kuala_Lumpur',
+            'userLocale': 'en-us',
+        }
         if offset:
             params['offset'] = offset
 
