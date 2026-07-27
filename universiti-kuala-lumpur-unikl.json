@@ -55,7 +55,7 @@
     "tuition_fee": "RM17,600",
     "yearly_fee_structure": "Tuition Fee Per Year: 17,600RM\n\nUSD Estimate Per Year: $4,333\n\nDuration: 4 years\n\nIntake: Mar & Oct",
     "total_fee": "RM70,400",
-    "other_fees_package": "\"UniKL - Student Visa Fee (All Nationalities): 3,300RM\", \"UniKL - Student Visa Fee (Indonesian): 3,600RM\", \"UniKL - Student Deposit: 1,000RM\"",
+    "other_fees_package": "\"UniKL - Student Visa Fee (All Nationalities): 3,300RM\", \"UniKL - Student Visa Fee (Indonesian): 3,600RM\", \"UniKL - Student Deposit: 1,000RM\", \"UniKL - Admission Payment: 3,370.80RM\", UniKL - Security Bond: Based on nationality, UniKL - Accommodation (per semester): Based on campus",
     "intake_dates": "Mar & Oct",
     "notes": "جامعة كوالالمبور (UniKL) هي جامعة تقنية رائدة في ماليزيا تضم 12 حرمًا جامعيًا متخصصًا وتقدم أكثر من 140 برنامجًا أكاديميًا. تشتهر بتركيزها على التعليم التطبيقي والشراكات الصناعية القوية، وتستقطب طلابًا من أكثر من 65 دولة حول العالم، مع توفير فرص للتدريب العملي والشهادات المهنية والدرجات المزدوجة."
   },
@@ -70,7 +70,7 @@
     "tuition_fee": "RM20,458",
     "yearly_fee_structure": "Year 1: RM20,458\n\nYear 2: RM20,458\n\nYear 3: RM20,458\n\nIntake: Feb & Oct",
     "total_fee": "RM61,374",
-    "other_fees_package": "\"UniKL - Student Visa Fee (All Nationalities): 3,300RM\", \"UniKL - Student Visa Fee (Indonesian): 3,600RM\", \"UniKL - Student Deposit: 1,000RM\"",
+    "other_fees_package": "\"UniKL - Student Visa Fee (All Nationalities): 3,300RM\", \"UniKL - Student Visa Fee (Indonesian): 3,600RM\", \"UniKL - Student Deposit: 1,000RM\", \"UniKL - Admission Payment: 3,370.80RM\", UniKL - Security Bond: Based on nationality, UniKL - Accommodation (per semester): Based on campus",
     "intake_dates": "Feb & Oct",
     "notes": "جامعة كوالالمبور (UniKL) هي جامعة تقنية رائدة في ماليزيا تضم 12 حرمًا جامعيًا متخصصًا وتقدم أكثر من 140 برنامجًا أكاديميًا. تشتهر بتركيزها على التعليم التطبيقي والشراكات الصناعية القوية، وتستقطب طلابًا من أكثر من 65 دولة حول العالم، مع توفير فرص للتدريب العملي والشهادات المهنية والدرجات المزدوجة."
   },
@@ -430,7 +430,7 @@
     "tuition_fee": "RM18,989",
     "yearly_fee_structure": "Year 1: RM18,989\n\nYear 2: RM18,989\n\nYear 3: RM18,989\n\nIntake: Feb & Oct",
     "total_fee": "RM56,967",
-    "other_fees_package": "\"UniKL - Student Visa Fee (All Nationalities): 3,300RM\", \"UniKL - Student Visa Fee (Indonesian): 3,600RM\", \"UniKL - Student Deposit: 1,000RM\", \"UniKL - Admission Payment: 3,370.80RM\"",
+    "other_fees_package": "\"UniKL - Student Visa Fee (All Nationalities): 3,300RM\", \"UniKL - Student Visa Fee (Indonesian): 3,600RM\", \"UniKL - Student Deposit: 1,000RM\", \"UniKL - Admission Payment: 3,370.80RM\", UniKL - Security Bond: Based on nationality, UniKL - Accommodation (per semester): Based on campus",
     "intake_dates": "Feb & Oct",
     "notes": "جامعة كوالالمبور (UniKL) هي جامعة تقنية رائدة في ماليزيا تضم 12 حرمًا جامعيًا متخصصًا وتقدم أكثر من 140 برنامجًا أكاديميًا. تشتهر بتركيزها على التعليم التطبيقي والشراكات الصناعية القوية، وتستقطب طلابًا من أكثر من 65 دولة حول العالم، مع توفير فرص للتدريب العملي والشهادات المهنية والدرجات المزدوجة."
   },
@@ -550,7 +550,7 @@
     "tuition_fee": "RM19,011",
     "yearly_fee_structure": "Year 1: RM19,011\n\nYear 2: RM19,011\n\nYear 3: RM9,505.50\n\nIntake: July",
     "total_fee": "RM47,528",
-    "other_fees_package": "\"UniKL - Student Visa Fee (All Nationalities): 3,300RM\", \"UniKL - Student Visa Fee (Indonesian): 3,600RM\", \"UniKL - Student Deposit: 1,000RM\", \"UniKL - Admission Payment: 3,370.80RM\"",
+    "other_fees_package": "\"UniKL - Student Visa Fee (All Nationalities): 3,300RM\", \"UniKL - Student Visa Fee (Indonesian): 3,600RM\", \"UniKL - Student Deposit: 1,000RM\", \"UniKL - Admission Payment: 3,370.80RM\", UniKL - Security Bond: Based on nationality, UniKL - Accommodation (per semester): Based on campus",
     "intake_dates": "July",
     "notes": "جامعة كوالالمبور (UniKL) هي جامعة تقنية رائدة في ماليزيا تضم 12 حرمًا جامعيًا متخصصًا وتقدم أكثر من 140 برنامجًا أكاديميًا. تشتهر بتركيزها على التعليم التطبيقي والشراكات الصناعية القوية، وتستقطب طلابًا من أكثر من 65 دولة حول العالم، مع توفير فرص للتدريب العملي والشهادات المهنية والدرجات المزدوجة."
   },
@@ -640,7 +640,7 @@
     "tuition_fee": "RM20,670",
     "yearly_fee_structure": "Year 1: RM20,670\n\nYear 2: RM20,670\n\nYear 3: RM20,670\n\nYear 4: RM20,670\n\nIntake: Feb & Oct",
     "total_fee": "RM82,680",
-    "other_fees_package": "\"UniKL - Student Visa Fee (All Nationalities): 3,300RM\", \"UniKL - Student Visa Fee (Indonesian): 3,600RM\", \"UniKL - Student Deposit: 1,000RM\"",
+    "other_fees_package": "\"UniKL - Student Visa Fee (All Nationalities): 3,300RM\", \"UniKL - Student Visa Fee (Indonesian): 3,600RM\", \"UniKL - Student Deposit: 1,000RM\", \"UniKL - Admission Payment: 3,370.80RM\", UniKL - Security Bond: Based on nationality, UniKL - Accommodation (per semester): Based on campus",
     "intake_dates": "Feb & Oct",
     "notes": "جامعة كوالالمبور (UniKL) هي جامعة تقنية رائدة في ماليزيا تضم 12 حرمًا جامعيًا متخصصًا وتقدم أكثر من 140 برنامجًا أكاديميًا. تشتهر بتركيزها على التعليم التطبيقي والشراكات الصناعية القوية، وتستقطب طلابًا من أكثر من 65 دولة حول العالم، مع توفير فرص للتدريب العملي والشهادات المهنية والدرجات المزدوجة."
   },
@@ -895,7 +895,7 @@
     "tuition_fee": "RM17,528",
     "yearly_fee_structure": "Year 1: RM17,528\n\nYear 2: RM17,528\n\nYear 3: RM17,528\n\nIntake: Feb & Oct",
     "total_fee": "RM52,584",
-    "other_fees_package": "\"UniKL - Student Visa Fee (All Nationalities): 3,300RM\", \"UniKL - Student Visa Fee (Indonesian): 3,600RM\", \"UniKL - Student Deposit: 1,000RM\"",
+    "other_fees_package": "\"UniKL - Student Visa Fee (All Nationalities): 3,300RM\", \"UniKL - Student Visa Fee (Indonesian): 3,600RM\", \"UniKL - Student Deposit: 1,000RM\", \"UniKL - Admission Payment: 3,370.80RM\", UniKL - Security Bond: Based on nationality, UniKL - Accommodation (per semester): Based on campus",
     "intake_dates": "Feb & Oct",
     "notes": "جامعة كوالالمبور (UniKL) هي جامعة تقنية رائدة في ماليزيا تضم 12 حرمًا جامعيًا متخصصًا وتقدم أكثر من 140 برنامجًا أكاديميًا. تشتهر بتركيزها على التعليم التطبيقي والشراكات الصناعية القوية، وتستقطب طلابًا من أكثر من 65 دولة حول العالم، مع توفير فرص للتدريب العملي والشهادات المهنية والدرجات المزدوجة."
   },
@@ -1150,7 +1150,7 @@
     "tuition_fee": "RM15,775",
     "yearly_fee_structure": "Year 1: RM15,775\n\nYear 2: RM15,775\n\nYear 3: RM7,887.50\n\nIntake: July",
     "total_fee": "RM39,438",
-    "other_fees_package": "\"UniKL - Student Visa Fee (All Nationalities): 3,300RM\", \"UniKL - Student Visa Fee (Indonesian): 3,600RM\", \"UniKL - Student Deposit: 1,000RM\", \"UniKL - Admission Payment: 3,370.80RM\"",
+    "other_fees_package": "\"UniKL - Student Visa Fee (All Nationalities): 3,300RM\", \"UniKL - Student Visa Fee (Indonesian): 3,600RM\", \"UniKL - Student Deposit: 1,000RM\", \"UniKL - Admission Payment: 3,370.80RM\", UniKL - Security Bond: Based on nationality, UniKL - Accommodation (per semester): Based on campus",
     "intake_dates": "July",
     "notes": "جامعة كوالالمبور (UniKL) هي جامعة تقنية رائدة في ماليزيا تضم 12 حرمًا جامعيًا متخصصًا وتقدم أكثر من 140 برنامجًا أكاديميًا. تشتهر بتركيزها على التعليم التطبيقي والشراكات الصناعية القوية، وتستقطب طلابًا من أكثر من 65 دولة حول العالم، مع توفير فرص للتدريب العملي والشهادات المهنية والدرجات المزدوجة."
   },
@@ -1195,7 +1195,7 @@
     "tuition_fee": "RM26,366",
     "yearly_fee_structure": "Year 1: RM26,366\n\nYear 2: RM26,366\n\nYear 3: RM26,366\n\nIntake: Feb & Oct",
     "total_fee": "RM79,098",
-    "other_fees_package": "\"UniKL - Student Visa Fee (All Nationalities): 3,300RM\", \"UniKL - Student Visa Fee (Indonesian): 3,600RM\", \"UniKL - Student Deposit: 1,000RM\", \"UniKL - Admission Payment: 3,370.80RM\"",
+    "other_fees_package": "\"UniKL - Student Visa Fee (All Nationalities): 3,300RM\", \"UniKL - Student Visa Fee (Indonesian): 3,600RM\", \"UniKL - Student Deposit: 1,000RM\", \"UniKL - Admission Payment: 3,370.80RM\", UniKL - Security Bond: Based on nationality, UniKL - Accommodation (per semester): Based on campus",
     "intake_dates": "Feb & Oct",
     "notes": "جامعة كوالالمبور (UniKL) هي جامعة تقنية رائدة في ماليزيا تضم 12 حرمًا جامعيًا متخصصًا وتقدم أكثر من 140 برنامجًا أكاديميًا. تشتهر بتركيزها على التعليم التطبيقي والشراكات الصناعية القوية، وتستقطب طلابًا من أكثر من 65 دولة حول العالم، مع توفير فرص للتدريب العملي والشهادات المهنية والدرجات المزدوجة."
   },
@@ -1495,7 +1495,7 @@
     "tuition_fee": "RM15,775",
     "yearly_fee_structure": "Year 1: RM15,775\n\nYear 2: RM15,775\n\nYear 3: RM7,887.50\n\nIntake: July",
     "total_fee": "RM39,438",
-    "other_fees_package": "\"UniKL - Student Visa Fee (All Nationalities): 3,300RM\", \"UniKL - Student Visa Fee (Indonesian): 3,600RM\", \"UniKL - Student Deposit: 1,000RM\", \"UniKL - Admission Payment: 3,370.80RM\"",
+    "other_fees_package": "\"UniKL - Student Visa Fee (All Nationalities): 3,300RM\", \"UniKL - Student Visa Fee (Indonesian): 3,600RM\", \"UniKL - Student Deposit: 1,000RM\", \"UniKL - Admission Payment: 3,370.80RM\", UniKL - Security Bond: Based on nationality, UniKL - Accommodation (per semester): Based on campus",
     "intake_dates": "July",
     "notes": "جامعة كوالالمبور (UniKL) هي جامعة تقنية رائدة في ماليزيا تضم 12 حرمًا جامعيًا متخصصًا وتقدم أكثر من 140 برنامجًا أكاديميًا. تشتهر بتركيزها على التعليم التطبيقي والشراكات الصناعية القوية، وتستقطب طلابًا من أكثر من 65 دولة حول العالم، مع توفير فرص للتدريب العملي والشهادات المهنية والدرجات المزدوجة."
   },
@@ -1675,7 +1675,7 @@
     "tuition_fee": "RM28,938",
     "yearly_fee_structure": "Year 1: RM28,938\n\nYear 2: RM28,938\n\nYear 3: RM28,938\n\nYear 4: RM14,469\n\nIntake: Feb & Oct",
     "total_fee": "RM101,283",
-    "other_fees_package": "\"UniKL - Student Visa Fee (All Nationalities): 3,300RM\", \"UniKL - Student Visa Fee (Indonesian): 3,600RM\", \"UniKL - Student Deposit: 1,000RM\", \"UniKL - Admission Payment: 3,370.80RM\"",
+    "other_fees_package": "\"UniKL - Student Visa Fee (All Nationalities): 3,300RM\", \"UniKL - Student Visa Fee (Indonesian): 3,600RM\", \"UniKL - Student Deposit: 1,000RM\", \"UniKL - Admission Payment: 3,370.80RM\", UniKL - Security Bond: Based on nationality, UniKL - Accommodation (per semester): Based on campus",
     "intake_dates": "Feb & Oct",
     "notes": "جامعة كوالالمبور (UniKL) هي جامعة تقنية رائدة في ماليزيا تضم 12 حرمًا جامعيًا متخصصًا وتقدم أكثر من 140 برنامجًا أكاديميًا. تشتهر بتركيزها على التعليم التطبيقي والشراكات الصناعية القوية، وتستقطب طلابًا من أكثر من 65 دولة حول العالم، مع توفير فرص للتدريب العملي والشهادات المهنية والدرجات المزدوجة."
   },
@@ -1855,7 +1855,7 @@
     "tuition_fee": "RM25,215",
     "yearly_fee_structure": "Year 1: RM25,215\n\nYear 2: RM25,215\n\nYear 3: RM25,215\n\nIntake: Feb & Oct",
     "total_fee": "RM75,645",
-    "other_fees_package": "\"UniKL - Student Visa Fee (All Nationalities): 3,300RM\", \"UniKL - Student Visa Fee (Indonesian): 3,600RM\", \"UniKL - Student Deposit: 1,000RM\"",
+    "other_fees_package": "\"UniKL - Student Visa Fee (All Nationalities): 3,300RM\", \"UniKL - Student Visa Fee (Indonesian): 3,600RM\", \"UniKL - Student Deposit: 1,000RM\", \"UniKL - Admission Payment: 3,370.80RM\", UniKL - Security Bond: Based on nationality, UniKL - Accommodation (per semester): Based on campus",
     "intake_dates": "Feb & Oct",
     "notes": "جامعة كوالالمبور (UniKL) هي جامعة تقنية رائدة في ماليزيا تضم 12 حرمًا جامعيًا متخصصًا وتقدم أكثر من 140 برنامجًا أكاديميًا. تشتهر بتركيزها على التعليم التطبيقي والشراكات الصناعية القوية، وتستقطب طلابًا من أكثر من 65 دولة حول العالم، مع توفير فرص للتدريب العملي والشهادات المهنية والدرجات المزدوجة."
   },
@@ -2050,7 +2050,7 @@
     "tuition_fee": "RM22,787",
     "yearly_fee_structure": "Year 1: RM22,787\n\nYear 2: RM22,787\n\nYear 3: RM11,393.50\n\nIntake: July",
     "total_fee": "RM56,968",
-    "other_fees_package": "\"UniKL - Student Visa Fee (All Nationalities): 3,300RM\", \"UniKL - Student Visa Fee (Indonesian): 3,600RM\", \"UniKL - Student Deposit: 1,000RM\", \"UniKL - Admission Payment: 3,370.80RM\"",
+    "other_fees_package": "\"UniKL - Student Visa Fee (All Nationalities): 3,300RM\", \"UniKL - Student Visa Fee (Indonesian): 3,600RM\", \"UniKL - Student Deposit: 1,000RM\", \"UniKL - Admission Payment: 3,370.80RM\", UniKL - Security Bond: Based on nationality, UniKL - Accommodation (per semester): Based on campus",
     "intake_dates": "July",
     "notes": "جامعة كوالالمبور (UniKL) هي جامعة تقنية رائدة في ماليزيا تضم 12 حرمًا جامعيًا متخصصًا وتقدم أكثر من 140 برنامجًا أكاديميًا. تشتهر بتركيزها على التعليم التطبيقي والشراكات الصناعية القوية، وتستقطب طلابًا من أكثر من 65 دولة حول العالم، مع توفير فرص للتدريب العملي والشهادات المهنية والدرجات المزدوجة."
   },
