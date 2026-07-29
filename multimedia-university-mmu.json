@@ -145,7 +145,7 @@
     "tuition_fee": "RM12,600",
     "yearly_fee_structure": "Estimated yearly tuition: RM12,600",
     "total_fee": "RM12,600",
-    "other_fees_package": "\"MMU - Registration Fee RM2,000\", \"MMU - International Processing Fee (Student Visa) RM3,500\", 500 | Deposit RM500 | Total Amount RM6, 000 | Thesis Examination Fee: Master RM900, \"PhD RM3,00\", MMU - Student Development Fee RM200/year",
+    "other_fees_package": "\"MMU - Registration Fee RM2,000\", \"MMU - International Processing Fee (Student Visa) RM3,500\", MMU - Deposit: RM500, \"MMU - Total One-Time Payment: RM6,000\", MMU - Thesis Examination Fee (Master): RM900, \"MMU - Thesis Examination Fee (PhD): RM3,000\", MMU - Student Development Fee RM200/year",
     "intake_dates": "",
     "notes": "🏆🌍 تُصنَّف جامعة MMU ضمن أفضل 851-900 جامعة عالمياً في تصنيف QS World University Rankings 2026، وحاصلة على تصنيف 5 نجوم SETARA من وزارة التعليم العالي الماليزية.\n🎓 تشتهر ببرامجها المتميزة في الذكاء الاصطناعي (AI)، الأمن السيبراني، علوم الحاسب، هندسة البرمجيات، هندسة الاتصالات، علوم البيانات، وإدارة الأعمال"
   },
@@ -160,7 +160,7 @@
     "tuition_fee": "RM16,500",
     "yearly_fee_structure": "Estimated yearly tuition: RM16,500",
     "total_fee": "RM16,500",
-    "other_fees_package": "\"MMU - Registration Fee RM2,000\", \"MMU - (Student Visa Processing) RM500 | Deposit RM1,500\", \"MMU - Total Amount RM4,000\", Student Development Fee RM50/year",
+    "other_fees_package": "\"MMU - Registration Fee RM2,000\", MMU - Student Visa Processing: RM500, \"MMU - Deposit: RM1,500\", \"MMU - Total Amount RM4,000\", MMU - Student Development Fee RM50/year",
     "intake_dates": "",
     "notes": "🏆🌍 تُصنَّف جامعة MMU ضمن أفضل 851-900 جامعة عالمياً في تصنيف QS World University Rankings 2026، وحاصلة على تصنيف 5 نجوم SETARA من وزارة التعليم العالي الماليزية.\n🎓 تشتهر ببرامجها المتميزة في الذكاء الاصطناعي (AI)، الأمن السيبراني، علوم الحاسب، هندسة البرمجيات، هندسة الاتصالات، علوم البيانات، وإدارة الأعمال"
   },
@@ -175,7 +175,7 @@
     "tuition_fee": "RM12,750",
     "yearly_fee_structure": "Estimated yearly tuition: RM12,750",
     "total_fee": "RM12,750",
-    "other_fees_package": "\"MMU - Registration Fee RM2,000\", \"MMU - International Processing Fee (Student Visa) RM3,500\", 500 | Deposit RM500 | Total Amount RM6, 000 | Thesis Examination Fee: Master RM900, \"PhD RM3,00\", MMU - Student Development Fee RM200/year",
+    "other_fees_package": "\"MMU - Registration Fee RM2,000\", \"MMU - International Processing Fee (Student Visa) RM3,500\", MMU - Deposit: RM500, \"MMU - Total One-Time Payment: RM6,000\", MMU - Thesis Examination Fee (Master): RM900, \"MMU - Thesis Examination Fee (PhD): RM3,000\", MMU - Student Development Fee RM200/year",
     "intake_dates": "",
     "notes": "🏆🌍 تُصنَّف جامعة MMU ضمن أفضل 851-900 جامعة عالمياً في تصنيف QS World University Rankings 2026، وحاصلة على تصنيف 5 نجوم SETARA من وزارة التعليم العالي الماليزية.\n🎓 تشتهر ببرامجها المتميزة في الذكاء الاصطناعي (AI)، الأمن السيبراني، علوم الحاسب، هندسة البرمجيات، هندسة الاتصالات، علوم البيانات، وإدارة الأعمال"
   },
@@ -265,7 +265,7 @@
     "tuition_fee": "RM19,200",
     "yearly_fee_structure": "Estimated yearly tuition: RM19,200",
     "total_fee": "RM19,200",
-    "other_fees_package": "\"MMU - Registration Fee RM2,000\", \"MMU - International Processing Fee (Student Visa) RM3,500\", 500 | Deposit RM500 | Total Amount RM6, 000 | Thesis Examination Fee: Master RM900, \"PhD RM3,00\", MMU - Student Development Fee RM200/year",
+    "other_fees_package": "\"MMU - Registration Fee RM2,000\", \"MMU - International Processing Fee (Student Visa) RM3,500\", MMU - Deposit: RM500, \"MMU - Total One-Time Payment: RM6,000\", MMU - Thesis Examination Fee (Master): RM900, \"MMU - Thesis Examination Fee (PhD): RM3,000\", MMU - Student Development Fee RM200/year",
     "intake_dates": "",
     "notes": "🏆🌍 تُصنَّف جامعة MMU ضمن أفضل 851-900 جامعة عالمياً في تصنيف QS World University Rankings 2026، وحاصلة على تصنيف 5 نجوم SETARA من وزارة التعليم العالي الماليزية.\n🎓 تشتهر ببرامجها المتميزة في الذكاء الاصطناعي (AI)، الأمن السيبراني، علوم الحاسب، هندسة البرمجيات، هندسة الاتصالات، علوم البيانات، وإدارة الأعمال"
   },
@@ -306,10 +306,10 @@
     "course_name": "Diploma in Electronic Engineering",
     "level": "Diploma",
     "study_mode": "Coursework",
-    "course_duration": "2.9 years",
+    "course_duration": "2 years 9 months",
     "tuition_fee": "RM11,218",
     "yearly_fee_structure": "Estimated yearly tuition: RM11,218",
-    "total_fee": "RM32,531",
+    "total_fee": "RM30,850",
     "other_fees_package": "\"MMU - One-Time Payment: Registration Fee RM2,000\", \"MMU - International Processing Fee (Student Visa) RM3,500\", \"MMU - Deposit RM1,500\", \"MMU - Total RM7,000\", MMU - Trimester Fee: Long RM160 / Short RM80 , MMU - Fees listed before 6% SST",
     "intake_dates": "",
     "notes": "🏆🌍 تُصنَّف جامعة MMU ضمن أفضل 851-900 جامعة عالمياً في تصنيف QS World University Rankings 2026، وحاصلة على تصنيف 5 نجوم SETARA من وزارة التعليم العالي الماليزية.\n🎓 تشتهر ببرامجها المتميزة في الذكاء الاصطناعي (AI)، الأمن السيبراني، علوم الحاسب، هندسة البرمجيات، هندسة الاتصالات، علوم البيانات، وإدارة الأعمال"
@@ -325,7 +325,7 @@
     "tuition_fee": "RM14,700",
     "yearly_fee_structure": "Estimated yearly tuition: RM14,700",
     "total_fee": "RM14,700",
-    "other_fees_package": "\"MMU - Registration Fee RM2,000\", \"MMU - International Processing Fee (Student Visa) RM3,500\", 500 | Deposit RM500 | Total Amount RM6, 000 | Thesis Examination Fee: Master RM900, \"PhD RM3,00\", MMU - Student Development Fee RM200/year",
+    "other_fees_package": "\"MMU - Registration Fee RM2,000\", \"MMU - International Processing Fee (Student Visa) RM3,500\", MMU - Deposit: RM500, \"MMU - Total One-Time Payment: RM6,000\", MMU - Thesis Examination Fee (Master): RM900, \"MMU - Thesis Examination Fee (PhD): RM3,000\", MMU - Student Development Fee RM200/year",
     "intake_dates": "",
     "notes": "🏆🌍 تُصنَّف جامعة MMU ضمن أفضل 851-900 جامعة عالمياً في تصنيف QS World University Rankings 2026، وحاصلة على تصنيف 5 نجوم SETARA من وزارة التعليم العالي الماليزية.\n🎓 تشتهر ببرامجها المتميزة في الذكاء الاصطناعي (AI)، الأمن السيبراني، علوم الحاسب، هندسة البرمجيات، هندسة الاتصالات، علوم البيانات، وإدارة الأعمال"
   },
@@ -700,7 +700,7 @@
     "tuition_fee": "RM6,150",
     "yearly_fee_structure": "Estimated yearly tuition: RM6,150",
     "total_fee": "RM6,150",
-    "other_fees_package": "\"MMU - Registration Fee RM2,000\", \"MMU - International Processing Fee (Student Visa) RM3,500\", 500 | Deposit RM500 | Total Amount RM6, 000 | Thesis Examination Fee: Master RM900, \"PhD RM3,00\", MMU - Student Development Fee RM200/year",
+    "other_fees_package": "\"MMU - Registration Fee RM2,000\", \"MMU - International Processing Fee (Student Visa) RM3,500\", MMU - Deposit: RM500, \"MMU - Total One-Time Payment: RM6,000\", MMU - Thesis Examination Fee (Master): RM900, \"MMU - Thesis Examination Fee (PhD): RM3,000\", MMU - Student Development Fee RM200/year",
     "intake_dates": "",
     "notes": "🏆🌍 تُصنَّف جامعة MMU ضمن أفضل 851-900 جامعة عالمياً في تصنيف QS World University Rankings 2026، وحاصلة على تصنيف 5 نجوم SETARA من وزارة التعليم العالي الماليزية.\n🎓 تشتهر ببرامجها المتميزة في الذكاء الاصطناعي (AI)، الأمن السيبراني، علوم الحاسب، هندسة البرمجيات، هندسة الاتصالات، علوم البيانات، وإدارة الأعمال"
   },
@@ -760,7 +760,7 @@
     "tuition_fee": "RM6,150",
     "yearly_fee_structure": "Estimated yearly tuition: RM6,150",
     "total_fee": "RM6,150",
-    "other_fees_package": "\"MMU - Registration Fee RM2,000\", \"MMU - International Processing Fee (Student Visa) RM3,500\", 500 | Deposit RM500 | Total Amount RM6, 000 | Thesis Examination Fee: Master RM900, \"PhD RM3,00\", MMU - Student Development Fee RM200/year",
+    "other_fees_package": "\"MMU - Registration Fee RM2,000\", \"MMU - International Processing Fee (Student Visa) RM3,500\", MMU - Deposit: RM500, \"MMU - Total One-Time Payment: RM6,000\", MMU - Thesis Examination Fee (Master): RM900, \"MMU - Thesis Examination Fee (PhD): RM3,000\", MMU - Student Development Fee RM200/year",
     "intake_dates": "",
     "notes": "🏆🌍 تُصنَّف جامعة MMU ضمن أفضل 851-900 جامعة عالمياً في تصنيف QS World University Rankings 2026، وحاصلة على تصنيف 5 نجوم SETARA من وزارة التعليم العالي الماليزية.\n🎓 تشتهر ببرامجها المتميزة في الذكاء الاصطناعي (AI)، الأمن السيبراني، علوم الحاسب، هندسة البرمجيات، هندسة الاتصالات، علوم البيانات، وإدارة الأعمال"
   },
@@ -895,7 +895,7 @@
     "tuition_fee": "RM12,750",
     "yearly_fee_structure": "Estimated yearly tuition: RM12,750",
     "total_fee": "RM12,750",
-    "other_fees_package": "\"MMU - Registration Fee RM2,000\", \"MMU - International Processing Fee (Student Visa) RM3,500\", 500 | Deposit RM500 | Total Amount RM6, 000 | Thesis Examination Fee: Master RM900, \"PhD RM3,00\", MMU - Student Development Fee RM200/year",
+    "other_fees_package": "\"MMU - Registration Fee RM2,000\", \"MMU - International Processing Fee (Student Visa) RM3,500\", MMU - Deposit: RM500, \"MMU - Total One-Time Payment: RM6,000\", MMU - Thesis Examination Fee (Master): RM900, \"MMU - Thesis Examination Fee (PhD): RM3,000\", MMU - Student Development Fee RM200/year",
     "intake_dates": "",
     "notes": "🏆🌍 تُصنَّف جامعة MMU ضمن أفضل 851-900 جامعة عالمياً في تصنيف QS World University Rankings 2026، وحاصلة على تصنيف 5 نجوم SETARA من وزارة التعليم العالي الماليزية.\n🎓 تشتهر ببرامجها المتميزة في الذكاء الاصطناعي (AI)، الأمن السيبراني، علوم الحاسب، هندسة البرمجيات، هندسة الاتصالات، علوم البيانات، وإدارة الأعمال"
   },
@@ -906,10 +906,10 @@
     "course_name": "Diploma in Mechanical Engineering",
     "level": "Diploma",
     "study_mode": "Coursework",
-    "course_duration": "3 years",
-    "tuition_fee": "RM25,750",
+    "course_duration": "2 years 9 months",
+    "tuition_fee": "RM11,218",
     "yearly_fee_structure": "Estimated yearly tuition: RM25,750",
-    "total_fee": "RM77,250",
+    "total_fee": "RM30,850",
     "other_fees_package": "\"MMU - One-Time Payment: Registration Fee RM2,000\", \"MMU - International Processing Fee (Student Visa) RM3,500\", \"MMU - Deposit RM1,500\", \"MMU - Total RM7,000\", MMU - Trimester Fee: Long RM160 / Short RM80 , MMU - Fees listed before 6% SST",
     "intake_dates": "",
     "notes": "🏆🌍 تُصنَّف جامعة MMU ضمن أفضل 851-900 جامعة عالمياً في تصنيف QS World University Rankings 2026، وحاصلة على تصنيف 5 نجوم SETARA من وزارة التعليم العالي الماليزية.\n🎓 تشتهر ببرامجها المتميزة في الذكاء الاصطناعي (AI)، الأمن السيبراني، علوم الحاسب، هندسة البرمجيات، هندسة الاتصالات، علوم البيانات، وإدارة الأعمال"
@@ -1000,7 +1000,7 @@
     "tuition_fee": "RM10,650",
     "yearly_fee_structure": "Estimated yearly tuition: RM10,650",
     "total_fee": "RM10,650",
-    "other_fees_package": "\"MMU - Registration Fee RM2,000\", \"MMU - International Processing Fee (Student Visa) RM3,500\", 500 | Deposit RM500 | Total Amount RM6, 000 | Thesis Examination Fee: Master RM900, \"PhD RM3,00\", MMU - Student Development Fee RM200/year",
+    "other_fees_package": "\"MMU - Registration Fee RM2,000\", \"MMU - International Processing Fee (Student Visa) RM3,500\", MMU - Deposit: RM500, \"MMU - Total One-Time Payment: RM6,000\", MMU - Thesis Examination Fee (Master): RM900, \"MMU - Thesis Examination Fee (PhD): RM3,000\", MMU - Student Development Fee RM200/year",
     "intake_dates": "",
     "notes": "🏆🌍 تُصنَّف جامعة MMU ضمن أفضل 851-900 جامعة عالمياً في تصنيف QS World University Rankings 2026، وحاصلة على تصنيف 5 نجوم SETARA من وزارة التعليم العالي الماليزية.\n🎓 تشتهر ببرامجها المتميزة في الذكاء الاصطناعي (AI)، الأمن السيبراني، علوم الحاسب، هندسة البرمجيات، هندسة الاتصالات، علوم البيانات، وإدارة الأعمال"
   },
@@ -1120,7 +1120,7 @@
     "tuition_fee": "RM12,750",
     "yearly_fee_structure": "Estimated yearly tuition: RM12,750",
     "total_fee": "RM12,750",
-    "other_fees_package": "\"MMU - Registration Fee RM2,000\", \"MMU - International Processing Fee (Student Visa) RM3,500\", 500 | Deposit RM500 | Total Amount RM6, 000 | Thesis Examination Fee: Master RM900, \"PhD RM3,00\", MMU - Student Development Fee RM200/year",
+    "other_fees_package": "\"MMU - Registration Fee RM2,000\", \"MMU - International Processing Fee (Student Visa) RM3,500\", MMU - Deposit: RM500, \"MMU - Total One-Time Payment: RM6,000\", MMU - Thesis Examination Fee (Master): RM900, \"MMU - Thesis Examination Fee (PhD): RM3,000\", MMU - Student Development Fee RM200/year",
     "intake_dates": "",
     "notes": "🏆🌍 تُصنَّف جامعة MMU ضمن أفضل 851-900 جامعة عالمياً في تصنيف QS World University Rankings 2026، وحاصلة على تصنيف 5 نجوم SETARA من وزارة التعليم العالي الماليزية.\n🎓 تشتهر ببرامجها المتميزة في الذكاء الاصطناعي (AI)، الأمن السيبراني، علوم الحاسب، هندسة البرمجيات، هندسة الاتصالات، علوم البيانات، وإدارة الأعمال"
   },
@@ -1150,7 +1150,7 @@
     "tuition_fee": "RM6,150",
     "yearly_fee_structure": "Estimated yearly tuition: RM6,150",
     "total_fee": "RM6,150",
-    "other_fees_package": "\"MMU - Registration Fee RM2,000\", \"MMU - International Processing Fee (Student Visa) RM3,500\", 500 | Deposit RM500 | Total Amount RM6, 000 | Thesis Examination Fee: Master RM900, \"PhD RM3,00\", MMU - Student Development Fee RM200/year",
+    "other_fees_package": "\"MMU - Registration Fee RM2,000\", \"MMU - International Processing Fee (Student Visa) RM3,500\", MMU - Deposit: RM500, \"MMU - Total One-Time Payment: RM6,000\", MMU - Thesis Examination Fee (Master): RM900, \"MMU - Thesis Examination Fee (PhD): RM3,000\", MMU - Student Development Fee RM200/year",
     "intake_dates": "",
     "notes": "🏆🌍 تُصنَّف جامعة MMU ضمن أفضل 851-900 جامعة عالمياً في تصنيف QS World University Rankings 2026، وحاصلة على تصنيف 5 نجوم SETARA من وزارة التعليم العالي الماليزية.\n🎓 تشتهر ببرامجها المتميزة في الذكاء الاصطناعي (AI)، الأمن السيبراني، علوم الحاسب، هندسة البرمجيات، هندسة الاتصالات، علوم البيانات، وإدارة الأعمال"
   },
@@ -1180,7 +1180,7 @@
     "tuition_fee": "RM8,100",
     "yearly_fee_structure": "Estimated yearly tuition: RM8,100",
     "total_fee": "RM8,100",
-    "other_fees_package": "\"MMU - Registration Fee RM2,000\", \"MMU - International Processing Fee (Student Visa) RM3,500\", 500 | Deposit RM500 | Total Amount RM6, 000 | Thesis Examination Fee: Master RM900, \"PhD RM3,00\", MMU - Student Development Fee RM200/year",
+    "other_fees_package": "\"MMU - Registration Fee RM2,000\", \"MMU - International Processing Fee (Student Visa) RM3,500\", MMU - Deposit: RM500, \"MMU - Total One-Time Payment: RM6,000\", MMU - Thesis Examination Fee (Master): RM900, \"MMU - Thesis Examination Fee (PhD): RM3,000\", MMU - Student Development Fee RM200/year",
     "intake_dates": "",
     "notes": "🏆🌍 تُصنَّف جامعة MMU ضمن أفضل 851-900 جامعة عالمياً في تصنيف QS World University Rankings 2026، وحاصلة على تصنيف 5 نجوم SETARA من وزارة التعليم العالي الماليزية.\n🎓 تشتهر ببرامجها المتميزة في الذكاء الاصطناعي (AI)، الأمن السيبراني، علوم الحاسب، هندسة البرمجيات، هندسة الاتصالات، علوم البيانات، وإدارة الأعمال"
   },
@@ -1191,10 +1191,10 @@
     "course_name": "Diploma in 3D Modelling & Animation",
     "level": "Diploma",
     "study_mode": "Coursework",
-    "course_duration": "2.3 years",
+    "course_duration": "2 years 3 months",
     "tuition_fee": "RM13,578",
     "yearly_fee_structure": "Estimated yearly tuition: RM13,578",
-    "total_fee": "RM31,250",
+    "total_fee": "RM30,550",
     "other_fees_package": "\"MMU - One-Time Payment: Registration Fee RM2,000\", \"MMU - International Processing Fee (Student Visa) RM3,500\", \"MMU - Deposit RM1,500\", \"MMU - Total RM7,000\", MMU - Trimester Fee: Long RM160 / Short RM80 , MMU - Fees listed before 6% SST",
     "intake_dates": "",
     "notes": "🏆🌍 تُصنَّف جامعة MMU ضمن أفضل 851-900 جامعة عالمياً في تصنيف QS World University Rankings 2026، وحاصلة على تصنيف 5 نجوم SETARA من وزارة التعليم العالي الماليزية.\n🎓 تشتهر ببرامجها المتميزة في الذكاء الاصطناعي (AI)، الأمن السيبراني، علوم الحاسب، هندسة البرمجيات، هندسة الاتصالات، علوم البيانات، وإدارة الأعمال"
