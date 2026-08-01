@@ -78,11 +78,12 @@ def normalize(record: dict) -> dict:
         'other_fees_package':   clean(f.get('Other Fees Package')),
         'intake_dates':         clean(f.get('Intake Dates')),
         'notes':                clean(f.get('Notes')),
-        # ── New fields added ──────────────────────────────
+        # ── New fields ────────────────────────────────────
         'field_of_study':       clean(f.get('Field of Study')),
         'campus':               clean(f.get('Campus')),
         'entry_requirements':   clean(f.get('Entry Requirements')),
         'english_requirements': clean(f.get('English Requirements')),
+        'scholarship':          clean(f.get('Scholarship')),
     }
 
 
