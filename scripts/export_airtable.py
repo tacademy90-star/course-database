@@ -7,9 +7,9 @@ import requests
 TOKEN  = os.environ['AIRTABLE_TOKEN']
 TABLE  = 'tbl5BIWKSzPXBnd16'
 BASES  = [
-    'appjlWfyICYLj7kpS',   # APU / UNITAR / UTAR / MAHSA
-    'appi7r3rUtJJ0MYa2',   # Lincoln / City / MMU / MSU / UNITEN / ALFA / UGM / UNIKL / AMU / SEGI
-    'app0OjcAI4FMeq4Fc',   # UniCAM / UCSI / UNIRAZAK / second base
+    'appjlWfyICYLj7kpS',   # Base 1: APU, UNITAR, MAHSA, MEDIU, UTEM, UniKL
+    'appi7r3rUtJJ0MYa2',   # Base 2: Lincoln, City, MMU, MSU, UNITEN, ALFA, UGM, UniKL, AMU, SEGi
+    'app0OjcAI4FMeq4Fc',   # Base 3: UCSI, UNIRAZAK, UTAR
 ]
 HEADERS = {'Authorization': f'Bearer {TOKEN}'}
 # ────────────────────────────────────────────────────────
@@ -78,7 +78,7 @@ def normalize(record: dict) -> dict:
         'other_fees_package':   clean(f.get('Other Fees Package')),
         'intake_dates':         clean(f.get('Intake Dates')),
         'notes':                clean(f.get('Notes')),
-        # ── New fields ────────────────────────────────────
+        # ── New fields (added to all 3 bases) ─────────────
         'field_of_study':       clean(f.get('Field of Study')),
         'campus':               clean(f.get('Campus')),
         'entry_requirements':   clean(f.get('Entry Requirements')),
